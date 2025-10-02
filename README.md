@@ -8,15 +8,15 @@
 
 - 💻 Desenvolvimento de software e automação de processos.
 - 📊 Análise e manipulação de dados.
-- 🔍 Desenvolvimento em **Python**, **R**, **SQL**, **JavaScript**, **CSS**, **HTML**.
-- ⚙️ Automatização usando **VBA**, **Power Automate** e **Python**.
+- 🔍 Desenvolvimento em **Python**, **SQL**, **Angular**, **React**, **Electron**.
+- ⚙️ Automatização usando **Power Automate** e **Python**.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas que adoro!
 
-- **Linguagens**: Python, R, SQL, JavaScript, CSS, HTML
-- **Automatização**: VBA, Power Automate, Python
+- **Linguagens**: Python,  SQL, Angular, React, Electron
+- **Automatização**: Power Automate, Python
 - **Ferramentas**: Excel, Power Apps, Power BI
 - **Ambientes**: Windows
 
@@ -26,8 +26,7 @@
 
 ## 🌱 Atualmente estou aprendendo:
 
-- Análise de Dados 🤓
-- Desenvolvimento de Apps 📱
+- Desenvolvimento de Apps/Softwares 📱
 - Banco de Dados 🗄️
 - Clouds ☁️
 
@@ -80,15 +79,15 @@
 
 - 💻 Software development and process automation.
 - 📊 Data analysis and manipulation.
-- 🔍 Development in **Python**, **R**, **SQL**, **JavaScript**, **CSS**, **HTML**.
-- ⚙️ Automation using **VBA**, **Power Automate**, and **Python**.
+- 🔍 Development in **Python**, **SQL**, **Angular**, **React**, **Electron**.
+- ⚙️ Automation using **Power Automate**, and **Python**.
 
 ---
 
 ## 🛠️ Technologies and Tools I Love!
 
-- **Languages**: Python, R, SQL, JavaScript, CSS, HTML
-- **Automation**: VBA, Power Automate, Python
+- **Languages**: Python, SQL, Angular, React, Electron
+- **Automation**: Power Automate, Python
 - **Tools**: Excel, Power Apps, Power BI
 - **Environments**: Windows
 
@@ -98,8 +97,7 @@
 
 ## 🌱 I am currently learning:
 
-- Data Analysis 🤓
-- App Development 📱
+- App/Software Development 📱
 - Databases 🗄️
 - Clouds ☁️
 
