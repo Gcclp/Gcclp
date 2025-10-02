@@ -2,6 +2,8 @@
 
 ## 🕶️ "Um povo que ignora sua história está condenado a repeti-la."
 
+Portfolio: https://gcclp.github.io/Portfolio/
+
 ---
 
 🎓 **Estudante de Engenharia de Software** na Faculdade da Indústria (Unisenai), São José dos Pinhais. Aqui estão algumas coisas que me fazem vibrar:
@@ -73,6 +75,7 @@
 
 ## 🕶️ "A people that ignores its history is condemned to repeat it."
 
+Portfolio: https://gcclp.github.io/Portfolio/
 ---
 
 🎓 **Software Engineering student** at Faculdade da Indústria (Unisenai), São José dos Pinhais. Here are some things that excite me:
